@@ -1,39 +1,150 @@
-# 👋 Hi there! I'm Damenzzzz
+<div align="center">
+
+# Islambek Sultanbek
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=LLM+Engineer+in+progress;Backend+Developer+with+ML%2FLLM+focus;Computer+Science+student+at+SDU;NFactorial+LLM+Engineer+student" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Damenzzzz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-LLM%20%26%20Backend-7C3AED?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=for-the-badge" alt="Open to internships" />
+</p>
+
+</div>
+
+---
 
 ## About Me
-I am an LLM Engineer and a backend developer with a passion for creating efficient and scalable applications. I enjoy exploring the latest technologies and integrating them into my projects to enhance functionality and user experience.
 
-## My Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF5C7C?style=flat-square&logo=huggingface&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+Hi, I'm **Islambek**.
 
-## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damenzzzz&show_icons=true&hide_border=true&count_private=true&theme=radical)  
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Damenzzzz&theme=radical)  
-![My Trophies](https://github-profile-trophy.vercel.app/?username=Damenzzzz&theme=radical&no-frame=true)
+I am a **beginning LLM developer** with a solid backend foundation. Right now I am deeply studying **Machine Learning**, **LLMs**, model behavior, training principles, and algorithms. Before that, I was actively focused on backend development and built practical skills around web development and databases.
 
-## Education
-- SDU University, Computer Science  
-- NFactorial, AI LLM Engineer Program  
+I completed the **STEP ACADEMY** program and received a diploma. I am also a **Computer Science student at Suleyman Demirel University (SDU)**.
 
-## Currently Learning
-- Exploring the latest advancements in Machine Learning and AI technologies.
+> **NFactorial LLM Engineer student**  
+> This is one of the key stages of my current growth, and it is where I am intensively building my path in LLM engineering.
 
-## Inspirational Quotes
-> "Programming isn't about what you know; it's about what you can figure out."  
-> "Simplicity is the soul of efficiency."
+I am interested in:
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/damenzzzz)  
-- Email: damenzzzz@example.com  
-- [Steam](https://steamcommunity.com/id/damenzzzz)  
-- [GitHub](https://github.com/Damenzzzz)
+- LLM systems and applied AI
+- Machine Learning fundamentals
+- Model training concepts and evaluation
+- Algorithms and problem solving
+- Backend development and API design
+- Building useful, production-oriented systems
 
-## Fun Reference
-Check out my [Snake Game](https://github.com/Damenzzzz/SnakeGame) to see me in action!
+---
 
-## Activity Graph
-![Activity Graph](https://wakatime.com/share/@Damenzzzz/graph.svg)
+## Tech Stack
 
-### Thank you for visiting my profile! 😊  
+<div align="center">
 
-Feel free to explore my projects and get in touch!  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+---
+
+## Current Direction
+
+```text
+From backend development -> to ML/LLM engineering
+Building step by step -> from fundamentals to real AI products
+```
+
+I already have a moderate backend base and now I am expanding it toward:
+
+- LLM applications
+- RAG systems
+- prompt engineering
+- model understanding
+- AI product development
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damenzzzz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damenzzzz&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=c9d1d9)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Damenzzzz&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Damenzzzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:alkibaevz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-alkibaevz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%B1%D0%B5%D0%BA-%D0%B8%D1%81%D0%BB%D0%B0%D0%BC%D0%B1%D0%B5%D0%BA-7732b63bb/">
+  <img src="https://img.shields.io/badge/LinkedIn-Islambek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561199245542161">
+  <img src="https://img.shields.io/badge/Steam-Profile-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+</a>
+
+</div>
+
+---
+
+## Quote
+
+<div align="center">
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> **Harold Abelson**
+
+</div>
+
+---
+
+## Contribution Snake
+
+<!--
+To make the snake animation work directly inside your profile README,
+create a GitHub Action that generates an SVG or GIF and save it inside the repo.
+Then keep this block in README:
+-->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Damenzzzz/Damenzzzz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## Optional Minimal Banner
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" alt="footer" />
+</div>
+
+---
+
+
