@@ -88,11 +88,7 @@ I already have a moderate backend base and now I am expanding it toward:
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Damenzzzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Damenzzzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
