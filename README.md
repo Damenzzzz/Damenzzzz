@@ -86,11 +86,6 @@ I already have a moderate backend base and now I am expanding it toward:
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Damenzzzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
 
 ## Connect With Me
 
@@ -120,21 +115,17 @@ I already have a moderate backend base and now I am expanding it toward:
 </div>
 
 ---
-
+<!--
 ## Contribution Snake
 
-<!--
+
 To make the snake animation work directly inside your profile README,
 create a GitHub Action that generates an SVG or GIF and save it inside the repo.
 Then keep this block in README:
--->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Damenzzzz/Damenzzzz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
-
+-->
 ## Optional Minimal Banner
 
 <div align="center">
