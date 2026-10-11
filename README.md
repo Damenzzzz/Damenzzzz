@@ -20,11 +20,6 @@ Hi, I'm **Islambek**.
 
 I am a **beginning LLM developer** with a solid backend foundation. Right now I am deeply studying **Machine Learning**, **LLMs**, model behavior, training principles, and algorithms. Before that, I was actively focused on backend development and built practical skills around web development and databases.
 
-I completed the **STEP ACADEMY** program and received a diploma. I am also a **Computer Science student at Suleyman Demirel University (SDU)**.
-
-> **NFactorial LLM Engineer student**  
-> This is one of the key stages of my current growth, and it is where I am intensively building my path in LLM engineering.
-
 I am interested in:
 
 - LLM systems and applied AI
