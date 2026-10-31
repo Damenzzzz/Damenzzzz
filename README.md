@@ -20,6 +20,11 @@
   <img src="https://img.shields.io/badge/Steam-Profile-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
 </a>
 
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" alt="footer" />
 </div>
 
 ---
@@ -34,18 +39,6 @@
 </div>
 
 ---
-<!--
-## Contribution Snake
-
-
-To make the snake animation work directly inside your profile README,
-create a GitHub Action that generates an SVG or GIF and save it inside the repo.
-Then keep this block in README:
-
-
----
--->
-## Optional Minimal Banner
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" alt="footer" />
