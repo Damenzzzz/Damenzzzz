@@ -3,9 +3,13 @@
 # Islambek Sultanbek
 
 </div>
----
+
+<div align="center">
 
 ## Quote
+
+</div>
+
 
 <div align="center">
 
