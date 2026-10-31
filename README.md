@@ -2,10 +2,6 @@
 
 # Islambek Sultanbek
 
-
----
-
-
 </div>
 ---
 
