@@ -13,7 +13,7 @@
 
 <div align="center">
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> “Programs must be written for people to read, and only incidentally for machines to execute. damn”  
 > **_Harold Abelson_**
 
 </div>
